@@ -1,0 +1,1002 @@
+[
+  {
+    "product_id":"PROD_1000",
+    "name":"SportElite Tablets Elite",
+    "category":"Electronics",
+    "subcategory":"Tablets",
+    "brand":"SportElite",
+    "cost":759.46,
+    "price":1022.86,
+    "margin":34.68
+  },
+  {
+    "product_id":"PROD_1001",
+    "name":"TechPro Makeup Elite",
+    "category":"Health & Beauty",
+    "subcategory":"Makeup",
+    "brand":"TechPro",
+    "cost":115.81,
+    "price":177.95,
+    "margin":53.65
+  },
+  {
+    "product_id":"PROD_1002",
+    "name":"BeautyPlus Tools Elite",
+    "category":"Automotive",
+    "subcategory":"Tools",
+    "brand":"BeautyPlus",
+    "cost":96.24,
+    "price":126.77,
+    "margin":31.72
+  },
+  {
+    "product_id":"PROD_1003",
+    "name":"AutoMax Accessories Elite",
+    "category":"Clothing",
+    "subcategory":"Accessories",
+    "brand":"AutoMax",
+    "cost":32.44,
+    "price":41.92,
+    "margin":29.21
+  },
+  {
+    "product_id":"PROD_1004",
+    "name":"TechPro Fiction Classic",
+    "category":"Books",
+    "subcategory":"Fiction",
+    "brand":"TechPro",
+    "cost":28.67,
+    "price":43.07,
+    "margin":50.24
+  },
+  {
+    "product_id":"PROD_1005",
+    "name":"TechPro Decor Classic",
+    "category":"Home & Garden",
+    "subcategory":"Decor",
+    "brand":"TechPro",
+    "cost":31.18,
+    "price":46.26,
+    "margin":48.37
+  },
+  {
+    "product_id":"PROD_1006",
+    "name":"TechPro Dresses Elite",
+    "category":"Clothing",
+    "subcategory":"Dresses",
+    "brand":"TechPro",
+    "cost":74.89,
+    "price":119.5,
+    "margin":59.57
+  },
+  {
+    "product_id":"PROD_1007",
+    "name":"TechPro Accessories Pro",
+    "category":"Electronics",
+    "subcategory":"Accessories",
+    "brand":"TechPro",
+    "cost":230.12,
+    "price":360.75,
+    "margin":56.77
+  },
+  {
+    "product_id":"PROD_1008",
+    "name":"SportElite Water Sports Pro",
+    "category":"Sports",
+    "subcategory":"Water Sports",
+    "brand":"SportElite",
+    "cost":24.19,
+    "price":32.84,
+    "margin":35.77
+  },
+  {
+    "product_id":"PROD_1009",
+    "name":"BeautyPlus Educational Premium",
+    "category":"Toys",
+    "subcategory":"Educational",
+    "brand":"BeautyPlus",
+    "cost":59.05,
+    "price":72.02,
+    "margin":21.96
+  },
+  {
+    "product_id":"PROD_1010",
+    "name":"AutoMax Accessories Elite",
+    "category":"Automotive",
+    "subcategory":"Accessories",
+    "brand":"AutoMax",
+    "cost":155.71,
+    "price":198.84,
+    "margin":27.7
+  },
+  {
+    "product_id":"PROD_1011",
+    "name":"AutoMax Smartphones Basic",
+    "category":"Electronics",
+    "subcategory":"Smartphones",
+    "brand":"AutoMax",
+    "cost":678.24,
+    "price":1006.34,
+    "margin":48.37
+  },
+  {
+    "product_id":"PROD_1012",
+    "name":"ToolCraft Non-Fiction Basic",
+    "category":"Books",
+    "subcategory":"Non-Fiction",
+    "brand":"ToolCraft",
+    "cost":68.69,
+    "price":90.05,
+    "margin":31.09
+  },
+  {
+    "product_id":"PROD_1013",
+    "name":"StyleMax Beverages Elite",
+    "category":"Food & Beverage",
+    "subcategory":"Beverages",
+    "brand":"StyleMax",
+    "cost":21.42,
+    "price":34.12,
+    "margin":59.29
+  },
+  {
+    "product_id":"PROD_1014",
+    "name":"AutoMax Supplements Elite",
+    "category":"Health & Beauty",
+    "subcategory":"Supplements",
+    "brand":"AutoMax",
+    "cost":104.39,
+    "price":157.44,
+    "margin":50.82
+  },
+  {
+    "product_id":"PROD_1015",
+    "name":"ToolCraft Safety Premium",
+    "category":"Tools",
+    "subcategory":"Safety",
+    "brand":"ToolCraft",
+    "cost":95.76,
+    "price":134.42,
+    "margin":40.37
+  },
+  {
+    "product_id":"PROD_1016",
+    "name":"SportElite Hand Tools Premium",
+    "category":"Tools",
+    "subcategory":"Hand Tools",
+    "brand":"SportElite",
+    "cost":195.33,
+    "price":248.43,
+    "margin":27.18
+  },
+  {
+    "product_id":"PROD_1017",
+    "name":"TechPro Snacks Classic",
+    "category":"Food & Beverage",
+    "subcategory":"Snacks",
+    "brand":"TechPro",
+    "cost":7.07,
+    "price":10.49,
+    "margin":48.42
+  },
+  {
+    "product_id":"PROD_1018",
+    "name":"BookWorld Personal Care Basic",
+    "category":"Health & Beauty",
+    "subcategory":"Personal Care",
+    "brand":"BookWorld",
+    "cost":102.62,
+    "price":144.34,
+    "margin":40.65
+  },
+  {
+    "product_id":"PROD_1019",
+    "name":"TechPro Outdoor Basic",
+    "category":"Toys",
+    "subcategory":"Outdoor",
+    "brand":"TechPro",
+    "cost":81.03,
+    "price":124.71,
+    "margin":53.91
+  },
+  {
+    "product_id":"PROD_1020",
+    "name":"ToolCraft Winter Sports Classic",
+    "category":"Sports",
+    "subcategory":"Winter Sports",
+    "brand":"ToolCraft",
+    "cost":91.62,
+    "price":142.0,
+    "margin":54.98
+  },
+  {
+    "product_id":"PROD_1021",
+    "name":"BeautyPlus Lighting Pro",
+    "category":"Home & Garden",
+    "subcategory":"Lighting",
+    "brand":"BeautyPlus",
+    "cost":91.35,
+    "price":116.9,
+    "margin":27.97
+  },
+  {
+    "product_id":"PROD_1022",
+    "name":"BookWorld Educational Basic",
+    "category":"Books",
+    "subcategory":"Educational",
+    "brand":"BookWorld",
+    "cost":5.55,
+    "price":8.24,
+    "margin":48.55
+  },
+  {
+    "product_id":"PROD_1023",
+    "name":"HomeComfort Power Tools Basic",
+    "category":"Tools",
+    "subcategory":"Power Tools",
+    "brand":"HomeComfort",
+    "cost":136.98,
+    "price":205.64,
+    "margin":50.12
+  },
+  {
+    "product_id":"PROD_1024",
+    "name":"StyleMax Skincare Pro",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"StyleMax",
+    "cost":14.17,
+    "price":17.21,
+    "margin":21.44
+  },
+  {
+    "product_id":"PROD_1025",
+    "name":"StyleMax Tools Basic",
+    "category":"Automotive",
+    "subcategory":"Tools",
+    "brand":"StyleMax",
+    "cost":51.01,
+    "price":74.63,
+    "margin":46.31
+  },
+  {
+    "product_id":"PROD_1026",
+    "name":"PlayTime Electronic Classic",
+    "category":"Toys",
+    "subcategory":"Electronic",
+    "brand":"PlayTime",
+    "cost":48.45,
+    "price":58.66,
+    "margin":21.08
+  },
+  {
+    "product_id":"PROD_1027",
+    "name":"BookWorld Fitness Equipment Basic",
+    "category":"Sports",
+    "subcategory":"Fitness Equipment",
+    "brand":"BookWorld",
+    "cost":46.44,
+    "price":60.84,
+    "margin":31.01
+  },
+  {
+    "product_id":"PROD_1028",
+    "name":"BookWorld Smartphones Elite",
+    "category":"Electronics",
+    "subcategory":"Smartphones",
+    "brand":"BookWorld",
+    "cost":422.06,
+    "price":670.24,
+    "margin":58.8
+  },
+  {
+    "product_id":"PROD_1029",
+    "name":"FreshTaste Organic Classic",
+    "category":"Food & Beverage",
+    "subcategory":"Organic",
+    "brand":"FreshTaste",
+    "cost":24.52,
+    "price":35.21,
+    "margin":43.61
+  },
+  {
+    "product_id":"PROD_1030",
+    "name":"StyleMax Beverages Elite",
+    "category":"Food & Beverage",
+    "subcategory":"Beverages",
+    "brand":"StyleMax",
+    "cost":64.19,
+    "price":100.94,
+    "margin":57.26
+  },
+  {
+    "product_id":"PROD_1031",
+    "name":"AutoMax Measuring Pro",
+    "category":"Tools",
+    "subcategory":"Measuring",
+    "brand":"AutoMax",
+    "cost":195.22,
+    "price":270.25,
+    "margin":38.43
+  },
+  {
+    "product_id":"PROD_1032",
+    "name":"FreshTaste Fiction Pro",
+    "category":"Books",
+    "subcategory":"Fiction",
+    "brand":"FreshTaste",
+    "cost":30.61,
+    "price":37.59,
+    "margin":22.81
+  },
+  {
+    "product_id":"PROD_1033",
+    "name":"HomeComfort Non-Fiction Basic",
+    "category":"Books",
+    "subcategory":"Non-Fiction",
+    "brand":"HomeComfort",
+    "cost":85.05,
+    "price":112.57,
+    "margin":32.36
+  },
+  {
+    "product_id":"PROD_1034",
+    "name":"HomeComfort Fitness Equipment Elite",
+    "category":"Sports",
+    "subcategory":"Fitness Equipment",
+    "brand":"HomeComfort",
+    "cost":19.87,
+    "price":24.0,
+    "margin":20.81
+  },
+  {
+    "product_id":"PROD_1035",
+    "name":"BeautyPlus Power Tools Elite",
+    "category":"Tools",
+    "subcategory":"Power Tools",
+    "brand":"BeautyPlus",
+    "cost":197.94,
+    "price":270.5,
+    "margin":36.66
+  },
+  {
+    "product_id":"PROD_1036",
+    "name":"BeautyPlus Educational Premium",
+    "category":"Toys",
+    "subcategory":"Educational",
+    "brand":"BeautyPlus",
+    "cost":83.83,
+    "price":117.4,
+    "margin":40.04
+  },
+  {
+    "product_id":"PROD_1037",
+    "name":"HomeComfort Educational Premium",
+    "category":"Books",
+    "subcategory":"Educational",
+    "brand":"HomeComfort",
+    "cost":88.83,
+    "price":138.09,
+    "margin":55.45
+  },
+  {
+    "product_id":"PROD_1038",
+    "name":"BeautyPlus Pants Basic",
+    "category":"Clothing",
+    "subcategory":"Pants",
+    "brand":"BeautyPlus",
+    "cost":28.61,
+    "price":42.03,
+    "margin":46.9
+  },
+  {
+    "product_id":"PROD_1039",
+    "name":"PlayTime Outdoor Gear Premium",
+    "category":"Sports",
+    "subcategory":"Outdoor Gear",
+    "brand":"PlayTime",
+    "cost":51.01,
+    "price":81.39,
+    "margin":59.55
+  },
+  {
+    "product_id":"PROD_1040",
+    "name":"TechPro Educational Classic",
+    "category":"Toys",
+    "subcategory":"Educational",
+    "brand":"TechPro",
+    "cost":64.73,
+    "price":80.86,
+    "margin":24.93
+  },
+  {
+    "product_id":"PROD_1041",
+    "name":"HomeComfort Beverages Basic",
+    "category":"Food & Beverage",
+    "subcategory":"Beverages",
+    "brand":"HomeComfort",
+    "cost":96.64,
+    "price":116.43,
+    "margin":20.48
+  },
+  {
+    "product_id":"PROD_1042",
+    "name":"ToolCraft Dresses Basic",
+    "category":"Clothing",
+    "subcategory":"Dresses",
+    "brand":"ToolCraft",
+    "cost":41.45,
+    "price":50.42,
+    "margin":21.65
+  },
+  {
+    "product_id":"PROD_1043",
+    "name":"TechPro Skincare Basic",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"TechPro",
+    "cost":99.94,
+    "price":127.15,
+    "margin":27.22
+  },
+  {
+    "product_id":"PROD_1044",
+    "name":"BookWorld Skincare Basic",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"BookWorld",
+    "cost":139.78,
+    "price":185.53,
+    "margin":32.73
+  },
+  {
+    "product_id":"PROD_1045",
+    "name":"ToolCraft Safety Classic",
+    "category":"Tools",
+    "subcategory":"Safety",
+    "brand":"ToolCraft",
+    "cost":145.45,
+    "price":190.92,
+    "margin":31.26
+  },
+  {
+    "product_id":"PROD_1046",
+    "name":"BookWorld Winter Sports Pro",
+    "category":"Sports",
+    "subcategory":"Winter Sports",
+    "brand":"BookWorld",
+    "cost":59.4,
+    "price":78.87,
+    "margin":32.78
+  },
+  {
+    "product_id":"PROD_1047",
+    "name":"BookWorld Makeup Basic",
+    "category":"Health & Beauty",
+    "subcategory":"Makeup",
+    "brand":"BookWorld",
+    "cost":66.86,
+    "price":80.74,
+    "margin":20.76
+  },
+  {
+    "product_id":"PROD_1048",
+    "name":"BeautyPlus Power Tools Elite",
+    "category":"Tools",
+    "subcategory":"Power Tools",
+    "brand":"BeautyPlus",
+    "cost":171.31,
+    "price":268.16,
+    "margin":56.54
+  },
+  {
+    "product_id":"PROD_1049",
+    "name":"SportElite Supplements Classic",
+    "category":"Health & Beauty",
+    "subcategory":"Supplements",
+    "brand":"SportElite",
+    "cost":14.16,
+    "price":20.35,
+    "margin":43.69
+  },
+  {
+    "product_id":"PROD_1050",
+    "name":"PlayTime Hand Tools Pro",
+    "category":"Tools",
+    "subcategory":"Hand Tools",
+    "brand":"PlayTime",
+    "cost":219.51,
+    "price":280.78,
+    "margin":27.91
+  },
+  {
+    "product_id":"PROD_1051",
+    "name":"PlayTime Outdoor Premium",
+    "category":"Toys",
+    "subcategory":"Outdoor",
+    "brand":"PlayTime",
+    "cost":90.11,
+    "price":120.4,
+    "margin":33.61
+  },
+  {
+    "product_id":"PROD_1052",
+    "name":"BeautyPlus Personal Care Basic",
+    "category":"Health & Beauty",
+    "subcategory":"Personal Care",
+    "brand":"BeautyPlus",
+    "cost":113.2,
+    "price":169.52,
+    "margin":49.75
+  },
+  {
+    "product_id":"PROD_1053",
+    "name":"TechPro Tablets Classic",
+    "category":"Electronics",
+    "subcategory":"Tablets",
+    "brand":"TechPro",
+    "cost":183.69,
+    "price":238.37,
+    "margin":29.77
+  },
+  {
+    "product_id":"PROD_1054",
+    "name":"TechPro Safety Premium",
+    "category":"Tools",
+    "subcategory":"Safety",
+    "brand":"TechPro",
+    "cost":76.18,
+    "price":105.07,
+    "margin":37.92
+  },
+  {
+    "product_id":"PROD_1055",
+    "name":"AutoMax Educational Elite",
+    "category":"Books",
+    "subcategory":"Educational",
+    "brand":"AutoMax",
+    "cost":95.92,
+    "price":134.61,
+    "margin":40.34
+  },
+  {
+    "product_id":"PROD_1056",
+    "name":"HomeComfort Pants Elite",
+    "category":"Clothing",
+    "subcategory":"Pants",
+    "brand":"HomeComfort",
+    "cost":83.07,
+    "price":114.1,
+    "margin":37.36
+  },
+  {
+    "product_id":"PROD_1057",
+    "name":"BookWorld Measuring Premium",
+    "category":"Tools",
+    "subcategory":"Measuring",
+    "brand":"BookWorld",
+    "cost":100.88,
+    "price":129.78,
+    "margin":28.65
+  },
+  {
+    "product_id":"PROD_1058",
+    "name":"FreshTaste Organic Classic",
+    "category":"Food & Beverage",
+    "subcategory":"Organic",
+    "brand":"FreshTaste",
+    "cost":9.85,
+    "price":14.06,
+    "margin":42.7
+  },
+  {
+    "product_id":"PROD_1059",
+    "name":"AutoMax Outdoor Premium",
+    "category":"Toys",
+    "subcategory":"Outdoor",
+    "brand":"AutoMax",
+    "cost":57.05,
+    "price":70.55,
+    "margin":23.66
+  },
+  {
+    "product_id":"PROD_1060",
+    "name":"ToolCraft Appliances Basic",
+    "category":"Home & Garden",
+    "subcategory":"Appliances",
+    "brand":"ToolCraft",
+    "cost":26.73,
+    "price":33.46,
+    "margin":25.19
+  },
+  {
+    "product_id":"PROD_1061",
+    "name":"StyleMax Skincare Classic",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"StyleMax",
+    "cost":68.55,
+    "price":89.89,
+    "margin":31.14
+  },
+  {
+    "product_id":"PROD_1062",
+    "name":"TechPro Parts Basic",
+    "category":"Automotive",
+    "subcategory":"Parts",
+    "brand":"TechPro",
+    "cost":279.75,
+    "price":378.78,
+    "margin":35.4
+  },
+  {
+    "product_id":"PROD_1063",
+    "name":"ToolCraft Beverages Premium",
+    "category":"Food & Beverage",
+    "subcategory":"Beverages",
+    "brand":"ToolCraft",
+    "cost":83.28,
+    "price":118.87,
+    "margin":42.74
+  },
+  {
+    "product_id":"PROD_1064",
+    "name":"TechPro Laptops Pro",
+    "category":"Electronics",
+    "subcategory":"Laptops",
+    "brand":"TechPro",
+    "cost":342.47,
+    "price":519.54,
+    "margin":51.7
+  },
+  {
+    "product_id":"PROD_1065",
+    "name":"SportElite Smartphones Pro",
+    "category":"Electronics",
+    "subcategory":"Smartphones",
+    "brand":"SportElite",
+    "cost":670.34,
+    "price":905.58,
+    "margin":35.09
+  },
+  {
+    "product_id":"PROD_1066",
+    "name":"BeautyPlus Water Sports Premium",
+    "category":"Sports",
+    "subcategory":"Water Sports",
+    "brand":"BeautyPlus",
+    "cost":43.46,
+    "price":56.01,
+    "margin":28.88
+  },
+  {
+    "product_id":"PROD_1067",
+    "name":"HomeComfort Hand Tools Pro",
+    "category":"Tools",
+    "subcategory":"Hand Tools",
+    "brand":"HomeComfort",
+    "cost":279.52,
+    "price":422.46,
+    "margin":51.14
+  },
+  {
+    "product_id":"PROD_1068",
+    "name":"TechPro Power Tools Pro",
+    "category":"Tools",
+    "subcategory":"Power Tools",
+    "brand":"TechPro",
+    "cost":229.65,
+    "price":349.04,
+    "margin":51.99
+  },
+  {
+    "product_id":"PROD_1069",
+    "name":"StyleMax Lighting Basic",
+    "category":"Home & Garden",
+    "subcategory":"Lighting",
+    "brand":"StyleMax",
+    "cost":32.85,
+    "price":45.96,
+    "margin":39.91
+  },
+  {
+    "product_id":"PROD_1070",
+    "name":"TechPro Skincare Classic",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"TechPro",
+    "cost":149.59,
+    "price":207.96,
+    "margin":39.02
+  },
+  {
+    "product_id":"PROD_1071",
+    "name":"FreshTaste Educational Premium",
+    "category":"Books",
+    "subcategory":"Educational",
+    "brand":"FreshTaste",
+    "cost":6.06,
+    "price":8.02,
+    "margin":32.31
+  },
+  {
+    "product_id":"PROD_1072",
+    "name":"BookWorld Outdoor Elite",
+    "category":"Toys",
+    "subcategory":"Outdoor",
+    "brand":"BookWorld",
+    "cost":72.06,
+    "price":88.93,
+    "margin":23.41
+  },
+  {
+    "product_id":"PROD_1073",
+    "name":"FreshTaste Children's Basic",
+    "category":"Books",
+    "subcategory":"Children's",
+    "brand":"FreshTaste",
+    "cost":74.43,
+    "price":95.74,
+    "margin":28.63
+  },
+  {
+    "product_id":"PROD_1074",
+    "name":"SportElite Shirts Premium",
+    "category":"Clothing",
+    "subcategory":"Shirts",
+    "brand":"SportElite",
+    "cost":104.16,
+    "price":150.41,
+    "margin":44.41
+  },
+  {
+    "product_id":"PROD_1075",
+    "name":"HomeComfort Lighting Premium",
+    "category":"Home & Garden",
+    "subcategory":"Lighting",
+    "brand":"HomeComfort",
+    "cost":38.54,
+    "price":54.38,
+    "margin":41.09
+  },
+  {
+    "product_id":"PROD_1076",
+    "name":"BeautyPlus Beverages Pro",
+    "category":"Food & Beverage",
+    "subcategory":"Beverages",
+    "brand":"BeautyPlus",
+    "cost":67.88,
+    "price":98.51,
+    "margin":45.12
+  },
+  {
+    "product_id":"PROD_1077",
+    "name":"ToolCraft Skincare Classic",
+    "category":"Health & Beauty",
+    "subcategory":"Skincare",
+    "brand":"ToolCraft",
+    "cost":94.33,
+    "price":115.41,
+    "margin":22.34
+  },
+  {
+    "product_id":"PROD_1078",
+    "name":"StyleMax Board Games Pro",
+    "category":"Toys",
+    "subcategory":"Board Games",
+    "brand":"StyleMax",
+    "cost":49.56,
+    "price":67.61,
+    "margin":36.42
+  },
+  {
+    "product_id":"PROD_1079",
+    "name":"BookWorld Action Figures Basic",
+    "category":"Toys",
+    "subcategory":"Action Figures",
+    "brand":"BookWorld",
+    "cost":37.03,
+    "price":54.9,
+    "margin":48.26
+  },
+  {
+    "product_id":"PROD_1080",
+    "name":"StyleMax Ingredients Elite",
+    "category":"Food & Beverage",
+    "subcategory":"Ingredients",
+    "brand":"StyleMax",
+    "cost":26.69,
+    "price":36.2,
+    "margin":35.62
+  },
+  {
+    "product_id":"PROD_1081",
+    "name":"ToolCraft Supplements Pro",
+    "category":"Health & Beauty",
+    "subcategory":"Supplements",
+    "brand":"ToolCraft",
+    "cost":125.37,
+    "price":183.84,
+    "margin":46.64
+  },
+  {
+    "product_id":"PROD_1082",
+    "name":"TechPro Ingredients Premium",
+    "category":"Food & Beverage",
+    "subcategory":"Ingredients",
+    "brand":"TechPro",
+    "cost":14.69,
+    "price":19.49,
+    "margin":32.71
+  },
+  {
+    "product_id":"PROD_1083",
+    "name":"ToolCraft Electronics Pro",
+    "category":"Automotive",
+    "subcategory":"Electronics",
+    "brand":"ToolCraft",
+    "cost":184.73,
+    "price":249.94,
+    "margin":35.3
+  },
+  {
+    "product_id":"PROD_1084",
+    "name":"BeautyPlus Hardware Elite",
+    "category":"Tools",
+    "subcategory":"Hardware",
+    "brand":"BeautyPlus",
+    "cost":115.5,
+    "price":148.53,
+    "margin":28.6
+  },
+  {
+    "product_id":"PROD_1085",
+    "name":"TechPro Accessories Pro",
+    "category":"Automotive",
+    "subcategory":"Accessories",
+    "brand":"TechPro",
+    "cost":136.37,
+    "price":204.14,
+    "margin":49.69
+  },
+  {
+    "product_id":"PROD_1086",
+    "name":"BookWorld Action Figures Classic",
+    "category":"Toys",
+    "subcategory":"Action Figures",
+    "brand":"BookWorld",
+    "cost":73.71,
+    "price":88.69,
+    "margin":20.32
+  },
+  {
+    "product_id":"PROD_1087",
+    "name":"ToolCraft Tools Basic",
+    "category":"Automotive",
+    "subcategory":"Tools",
+    "brand":"ToolCraft",
+    "cost":276.18,
+    "price":379.23,
+    "margin":37.31
+  },
+  {
+    "product_id":"PROD_1088",
+    "name":"BookWorld Shoes Classic",
+    "category":"Clothing",
+    "subcategory":"Shoes",
+    "brand":"BookWorld",
+    "cost":45.56,
+    "price":64.72,
+    "margin":42.05
+  },
+  {
+    "product_id":"PROD_1089",
+    "name":"FreshTaste Fitness Equipment Pro",
+    "category":"Sports",
+    "subcategory":"Fitness Equipment",
+    "brand":"FreshTaste",
+    "cost":70.06,
+    "price":96.88,
+    "margin":38.28
+  },
+  {
+    "product_id":"PROD_1090",
+    "name":"ToolCraft Appliances Pro",
+    "category":"Home & Garden",
+    "subcategory":"Appliances",
+    "brand":"ToolCraft",
+    "cost":25.53,
+    "price":35.9,
+    "margin":40.63
+  },
+  {
+    "product_id":"PROD_1091",
+    "name":"SportElite Laptops Elite",
+    "category":"Electronics",
+    "subcategory":"Laptops",
+    "brand":"SportElite",
+    "cost":568.28,
+    "price":732.69,
+    "margin":28.93
+  },
+  {
+    "product_id":"PROD_1092",
+    "name":"ToolCraft Appliances Classic",
+    "category":"Home & Garden",
+    "subcategory":"Appliances",
+    "brand":"ToolCraft",
+    "cost":8.53,
+    "price":10.99,
+    "margin":28.82
+  },
+  {
+    "product_id":"PROD_1093",
+    "name":"FreshTaste Educational Basic",
+    "category":"Toys",
+    "subcategory":"Educational",
+    "brand":"FreshTaste",
+    "cost":43.39,
+    "price":57.58,
+    "margin":32.71
+  },
+  {
+    "product_id":"PROD_1094",
+    "name":"ToolCraft Outdoor Gear Premium",
+    "category":"Sports",
+    "subcategory":"Outdoor Gear",
+    "brand":"ToolCraft",
+    "cost":45.19,
+    "price":71.25,
+    "margin":57.66
+  },
+  {
+    "product_id":"PROD_1095",
+    "name":"ToolCraft Electronic Pro",
+    "category":"Toys",
+    "subcategory":"Electronic",
+    "brand":"ToolCraft",
+    "cost":54.95,
+    "price":79.42,
+    "margin":44.53
+  },
+  {
+    "product_id":"PROD_1096",
+    "name":"StyleMax Winter Sports Classic",
+    "category":"Sports",
+    "subcategory":"Winter Sports",
+    "brand":"StyleMax",
+    "cost":59.12,
+    "price":83.22,
+    "margin":40.77
+  },
+  {
+    "product_id":"PROD_1097",
+    "name":"PlayTime Supplements Premium",
+    "category":"Health & Beauty",
+    "subcategory":"Supplements",
+    "brand":"PlayTime",
+    "cost":106.65,
+    "price":161.33,
+    "margin":51.27
+  },
+  {
+    "product_id":"PROD_1098",
+    "name":"BeautyPlus Action Figures Pro",
+    "category":"Toys",
+    "subcategory":"Action Figures",
+    "brand":"BeautyPlus",
+    "cost":74.49,
+    "price":103.41,
+    "margin":38.82
+  },
+  {
+    "product_id":"PROD_1099",
+    "name":"TechPro Electronic Pro",
+    "category":"Toys",
+    "subcategory":"Electronic",
+    "brand":"TechPro",
+    "cost":8.21,
+    "price":11.96,
+    "margin":45.62
+  }
+]

@@ -1,0 +1,56 @@
+# Core data science libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Database and data processing
+duckdb>=0.9.0
+pyarrow>=12.0.0
+sqlalchemy>=2.0.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipython>=8.0.0
+ipywidgets>=8.0.0
+nbformat>=5.7.0
+
+# Data visualization
+plotly>=5.14.0
+bokeh>=3.1.0
+
+# File format support
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+h5py>=3.8.0
+
+# Testing and development
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+
+# Data generation and utilities
+faker>=18.0.0
+python-dateutil>=2.8.0
+tqdm>=4.65.0
+
+# Performance and monitoring
+memory-profiler>=0.60.0
+psutil>=5.9.0
+
+# Configuration and environment
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Optional: Machine learning (commented out for lighter install)
+# scikit-learn>=1.3.0
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
+
+# Optional: Advanced analytics (commented out for lighter install)
+# statsmodels>=0.14.0
+# networkx>=3.1

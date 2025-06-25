@@ -1,0 +1,155 @@
+# Sales Analysis Project - Git Ignore
+# Comprehensive ignore patterns for data science projects
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Data Science Specific
+# Large data files (but keep sample files for testing)
+data/large_sales.csv
+data/*_large.*
+data/*_backup.*
+*.h5
+*.hdf5
+models/
+*.pkl
+*.pickle
+*.joblib
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+duckdb_data/
+
+# Jupyter execution artifacts
+.jupyter/
+jupyter_notebook_config.py
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Documentation builds
+docs/_build/
+.readthedocs.yml
+
+# Cache directories
+.cache/
+__pycache__/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Great Expectations
+uncommitted/
+.ge_store_backend_id
+
+# DVC (Data Version Control)
+.dvc/
+.dvcignore
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Weights & Biases
+wandb/
+
+# TensorBoard
+runs/
+
+# Keep sample data files for testing
+!data/sales.csv
+!data/products.json
+!data/regions.parquet
+
+# Keep documentation and configuration
+!README.md
+!requirements.txt
+!environment.yml
+!.gitignore
+
+# Keep test files
+!scripts/test_*.py
+!tests/
+
+# environment and project data
+.envrc
+.projectrc

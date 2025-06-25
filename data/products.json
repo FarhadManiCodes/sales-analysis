@@ -1,0 +1,290 @@
+{
+  "catalog": {
+    "version": "2.1",
+    "last_updated": "2024-01-15T10:30:00Z",
+    "categories": [
+      {
+        "category_id": "ELECTRONICS",
+        "name": "Electronics",
+        "description": "Consumer electronics and gadgets"
+      },
+      {
+        "category_id": "CLOTHING",
+        "name": "Clothing & Apparel",
+        "description": "Fashion and clothing items"
+      },
+      {
+        "category_id": "HOME",
+        "name": "Home & Garden",
+        "description": "Home improvement and garden supplies"
+      }
+    ]
+  },
+  "products": [
+    {
+      "product_id": "PRD_101",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless headphones with noise cancellation",
+      "category": "ELECTRONICS",
+      "price": 29.99,
+      "cost": 18.50,
+      "supplier": {
+        "name": "TechSource Inc",
+        "contact": "orders@techsource.com",
+        "rating": 4.7
+      },
+      "specifications": {
+        "color": [
+          "Black",
+          "White",
+          "Blue"
+        ],
+        "weight": "200g",
+        "battery_life": "24 hours",
+        "warranty": "1 year"
+      },
+      "inventory": {
+        "stock_quantity": 150,
+        "reorder_level": 25,
+        "warehouse_locations": [
+          "WH_001",
+          "WH_003"
+        ]
+      },
+      "sales_metrics": {
+        "units_sold_ytd": 847,
+        "revenue_ytd": 25409.53,
+        "avg_rating": 4.3,
+        "return_rate": 0.02
+      },
+      "tags": [
+        "wireless",
+        "bluetooth",
+        "noise-canceling",
+        "premium"
+      ],
+      "status": "active",
+      "created_date": "2023-03-15",
+      "last_updated": "2024-01-10"
+    },
+    {
+      "product_id": "PRD_205",
+      "name": "Smart Fitness Watch",
+      "description": "Advanced fitness tracker with heart rate monitoring and GPS",
+      "category": "ELECTRONICS",
+      "price": 149.99,
+      "cost": 89.99,
+      "supplier": {
+        "name": "FitTech Solutions",
+        "contact": "sales@fittech.com",
+        "rating": 4.5
+      },
+      "specifications": {
+        "color": [
+          "Black",
+          "Silver",
+          "Rose Gold"
+        ],
+        "display": "1.4 inch OLED",
+        "battery_life": "7 days",
+        "water_resistance": "50m",
+        "warranty": "2 years"
+      },
+      "inventory": {
+        "stock_quantity": 89,
+        "reorder_level": 15,
+        "warehouse_locations": [
+          "WH_001",
+          "WH_002"
+        ]
+      },
+      "sales_metrics": {
+        "units_sold_ytd": 423,
+        "revenue_ytd": 63469.77,
+        "avg_rating": 4.6,
+        "return_rate": 0.03
+      },
+      "tags": [
+        "fitness",
+        "smartwatch",
+        "gps",
+        "heart-rate"
+      ],
+      "status": "active",
+      "created_date": "2023-06-20",
+      "last_updated": "2024-01-12"
+    },
+    {
+      "product_id": "PRD_312",
+      "name": "Cotton Blend T-Shirt",
+      "description": "Comfortable everyday t-shirt made from organic cotton blend",
+      "category": "CLOTHING",
+      "price": 19.99,
+      "cost": 7.50,
+      "supplier": {
+        "name": "EcoFashion Co",
+        "contact": "wholesale@ecofashion.com",
+        "rating": 4.2
+      },
+      "specifications": {
+        "material": "60% Organic Cotton, 40% Polyester",
+        "sizes": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "color": [
+          "White",
+          "Black",
+          "Gray",
+          "Navy",
+          "Red"
+        ],
+        "care_instructions": "Machine wash cold, tumble dry low",
+        "warranty": "30 days"
+      },
+      "inventory": {
+        "stock_quantity": 340,
+        "reorder_level": 50,
+        "warehouse_locations": [
+          "WH_002",
+          "WH_004"
+        ]
+      },
+      "sales_metrics": {
+        "units_sold_ytd": 1256,
+        "revenue_ytd": 25118.44,
+        "avg_rating": 4.1,
+        "return_rate": 0.05
+      },
+      "tags": [
+        "organic",
+        "cotton",
+        "casual",
+        "everyday"
+      ],
+      "status": "active",
+      "created_date": "2023-02-10",
+      "last_updated": "2024-01-08"
+    },
+    {
+      "product_id": "PRD_408",
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated water bottle keeps drinks cold for 24h, hot for 12h",
+      "category": "HOME",
+      "price": 9.99,
+      "cost": 4.25,
+      "supplier": {
+        "name": "DrinkWare Plus",
+        "contact": "orders@drinkwareplus.com",
+        "rating": 4.8
+      },
+      "specifications": {
+        "material": "18/8 Stainless Steel",
+        "capacity": [
+          "16oz",
+          "20oz",
+          "32oz"
+        ],
+        "color": [
+          "Silver",
+          "Black",
+          "Blue",
+          "Pink",
+          "Green"
+        ],
+        "features": [
+          "BPA-free",
+          "Dishwasher safe",
+          "Leak-proof"
+        ],
+        "warranty": "Lifetime"
+      },
+      "inventory": {
+        "stock_quantity": 275,
+        "reorder_level": 75,
+        "warehouse_locations": [
+          "WH_001",
+          "WH_003",
+          "WH_004"
+        ]
+      },
+      "sales_metrics": {
+        "units_sold_ytd": 2147,
+        "revenue_ytd": 21448.53,
+        "avg_rating": 4.7,
+        "return_rate": 0.01
+      },
+      "tags": [
+        "eco-friendly",
+        "insulated",
+        "steel",
+        "durable"
+      ],
+      "status": "active",
+      "created_date": "2023-01-05",
+      "last_updated": "2024-01-14"
+    },
+    {
+      "product_id": "PRD_501",
+      "name": "Professional Kitchen Knife Set",
+      "description": "8-piece professional chef knife set with wooden block",
+      "category": "HOME",
+      "price": 299.99,
+      "cost": 165.00,
+      "supplier": {
+        "name": "CulinaryPro Equipment",
+        "contact": "sales@culinarypro.com",
+        "rating": 4.9
+      },
+      "specifications": {
+        "material": "High-carbon German steel",
+        "pieces": 8,
+        "includes": [
+          "Chef knife",
+          "Paring knife",
+          "Bread knife",
+          "Utility knife",
+          "Steak knives (4)",
+          "Wooden block"
+        ],
+        "blade_length": "Various (3-8 inches)",
+        "maintenance": "Hand wash recommended",
+        "warranty": "25 years"
+      },
+      "inventory": {
+        "stock_quantity": 45,
+        "reorder_level": 8,
+        "warehouse_locations": [
+          "WH_002"
+        ]
+      },
+      "sales_metrics": {
+        "units_sold_ytd": 187,
+        "revenue_ytd": 56098.13,
+        "avg_rating": 4.8,
+        "return_rate": 0.02
+      },
+      "tags": [
+        "professional",
+        "chef",
+        "german-steel",
+        "premium"
+      ],
+      "status": "active",
+      "created_date": "2023-09-12",
+      "last_updated": "2024-01-11"
+    }
+  ],
+  "metadata": {
+    "total_products": 5,
+    "active_products": 5,
+    "total_categories": 3,
+    "currency": "USD",
+    "last_inventory_update": "2024-01-15T08:15:00Z",
+    "data_source": "ERP_SYSTEM_v3.2"
+  }
+}

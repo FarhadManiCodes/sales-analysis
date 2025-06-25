@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+TestDataQualityAnalysis	test_functions.py	/^class TestDataQualityAnalysis:$/;"	c
+TestProfitCalculations	test_functions.py	/^class TestProfitCalculations:$/;"	c
+TestSalesDataValidation	test_functions.py	/^class TestSalesDataValidation:$/;"	c
+analyze_sales_data_quality	test_functions.py	/^def analyze_sales_data_quality(csv_file: str = "data\/sales.csv") -> Dict[str, Any]:$/;"	f
+benchmark_data_loading	test_functions.py	/^def benchmark_data_loading(csv_file: str = "data\/sales.csv") -> Dict[str, float]:$/;"	f
+calculate_profit_metrics	test_functions.py	/^def calculate_profit_metrics(price: float, cost: float, quantity: int = 1) -> Dict[str, float]:$/;"	f
+demo_data_validation	test_functions.py	/^def demo_data_validation():$/;"	f
+demo_performance_test	test_functions.py	/^def demo_performance_test():$/;"	f
+demo_profit_calculations	test_functions.py	/^def demo_profit_calculations():$/;"	f
+generate_complex_json	generate_test_data.py	/^def generate_complex_json(output_file="data\/complex_data.json"):$/;"	f
+generate_large_sales_data	generate_test_data.py	/^def generate_large_sales_data(output_file="data\/large_sales.csv", target_rows=50000):$/;"	f
+generate_regions_parquet	generate_test_data.py	/^def generate_regions_parquet(output_file="data\/regions.parquet"):$/;"	f
+main	generate_test_data.py	/^def main():$/;"	f
+main	test_functions.py	/^def main():$/;"	f
+run_all_demos	test_functions.py	/^def run_all_demos():$/;"	f
+success	generate_test_data.py	/^    success = main()$/;"	v
+test_analyze_sales_data_quality_file_not_found	test_functions.py	/^    def test_analyze_sales_data_quality_file_not_found(self):$/;"	m	class:TestDataQualityAnalysis
+test_benchmark_data_loading_structure	test_functions.py	/^    def test_benchmark_data_loading_structure(self):$/;"	m	class:TestDataQualityAnalysis
+test_calculate_profit_metrics_basic	test_functions.py	/^    def test_calculate_profit_metrics_basic(self):$/;"	m	class:TestProfitCalculations
+test_calculate_profit_metrics_invalid_cost	test_functions.py	/^    def test_calculate_profit_metrics_invalid_cost(self):$/;"	m	class:TestProfitCalculations
+test_calculate_profit_metrics_invalid_price	test_functions.py	/^    def test_calculate_profit_metrics_invalid_price(self):$/;"	m	class:TestProfitCalculations
+test_calculate_profit_metrics_multiple_quantities	test_functions.py	/^    def test_calculate_profit_metrics_multiple_quantities(self):$/;"	m	class:TestProfitCalculations
+test_duckdb_connection	test_functions.py	/^def test_duckdb_connection(db_path: str = "sales_analysis.duckdb") -> Dict[str, Any]:$/;"	f
+test_validate_transaction_data_invalid_quantity	test_functions.py	/^    def test_validate_transaction_data_invalid_quantity(self):$/;"	m	class:TestSalesDataValidation
+test_validate_transaction_data_missing_fields	test_functions.py	/^    def test_validate_transaction_data_missing_fields(self):$/;"	m	class:TestSalesDataValidation
+test_validate_transaction_data_valid	test_functions.py	/^    def test_validate_transaction_data_valid(self):$/;"	m	class:TestSalesDataValidation
+validate_transaction_data	test_functions.py	/^def validate_transaction_data(transaction: Dict) -> Dict[str, Any]:$/;"	f
