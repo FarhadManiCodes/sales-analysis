@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated_at": "2025-06-25T14:32:57.643625",
+    "description": "Complex nested JSON for testing",
+    "schema_version": "2.1"
+  },
+  "sales_summary": {
+    "total_revenue": 1250000.5,
+    "total_transactions": 45678,
+    "period": {
+      "start_date": "2023-01-01",
+      "end_date": "2024-12-31"
+    },
+    "by_region": [
+      {
+        "region": "North",
+        "metrics": {
+          "revenue": 350000.25,
+          "transactions": 12500,
+          "avg_transaction": 28.0,
+          "top_products": [
+            {
+              "product_id": "PRD_101",
+              "name": "Widget A",
+              "sales": 5000
+            },
+            {
+              "product_id": "PRD_102",
+              "name": "Widget B",
+              "sales": 3200
+            }
+          ]
+        }
+      },
+      {
+        "region": "South",
+        "metrics": {
+          "revenue": 280000.75,
+          "transactions": 10200,
+          "avg_transaction": 27.45,
+          "top_products": [
+            {
+              "product_id": "PRD_103",
+              "name": "Gadget X",
+              "sales": 4100
+            },
+            {
+              "product_id": "PRD_104",
+              "name": "Gadget Y",
+              "sales": 2800
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "customer_segments": {
+    "high_value": {
+      "count": 1250,
+      "avg_spend": 580.25,
+      "characteristics": {
+        "age_range": "35-55",
+        "income_bracket": "high",
+        "purchase_frequency": "monthly"
+      }
+    },
+    "medium_value": {
+      "count": 4800,
+      "avg_spend": 240.5,
+      "characteristics": {
+        "age_range": "25-45",
+        "income_bracket": "medium",
+        "purchase_frequency": "quarterly"
+      }
+    }
+  },
+  "product_performance": {
+    "categories": {
+      "electronics": {
+        "total_revenue": 750000,
+        "units_sold": 25000,
+        "avg_rating": 4.2,
+        "return_rate": 0.032,
+        "seasonal_trends": [
+          {
+            "month": "Q1",
+            "sales_multiplier": 0.8
+          },
+          {
+            "month": "Q2",
+            "sales_multiplier": 1.1
+          },
+          {
+            "month": "Q3",
+            "sales_multiplier": 0.9
+          },
+          {
+            "month": "Q4",
+            "sales_multiplier": 1.4
+          }
+        ]
+      }
+    }
+  }
+}
